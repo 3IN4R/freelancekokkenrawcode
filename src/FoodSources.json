@@ -1,0 +1,19 @@
+{
+    "news": [
+        {
+            "name": "Kylling og ris",
+            "country": "Risgrød",
+            "factuality": "Ost bits"
+        },
+        {
+            "name": "Fisk og kartoffler",
+            "country": "Muffins",
+            "factuality": "Sandwiches"
+        },
+        {
+            "name": "Creamy vegan pasta",
+            "country": "Vegan ice-cream",
+            "factuality": "Salatter"
+        }
+    ]
+}

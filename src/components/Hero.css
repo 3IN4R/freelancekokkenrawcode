@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&family=Roboto:wght@100&display=swap');
+
+.buddy {
+    background-image: url(../resources/foodie.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 2rem 2rem;
+    
+}
+
+.hero-text {
+    border-radius: 0.5rem;
+    background-color: rgba(0, 0, 0, 0.382);
+    color: #ffffff;
+    width: 76%;
+    margin: auto;
+    font-size: 2rem;
+    text-align: center;
+    padding: 1rem 1rem; padding: 10rem 5rem;
+    margin-bottom: 5rem;
+}
+
+.heropar{
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.herobutton{
+    text-decoration: none;
+    font-family: PT Sans Marrow;
+    font-size: 2rem;
+    background: #ffa200;
+    border-radius: 1.0rem;
+
+}

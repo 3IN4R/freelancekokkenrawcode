@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&family=Roboto:wght@100&display=swap');
+
+html, body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+}
+
+.bigText{
+    font-family: PT Sans Narrow;
+    font-size: 3rem;
+}
+
+.bigText2{
+    font-family: PT Sans Narrow;
+    font-size: 5rem;
+}
+
+.nav-bar ul li a {
+    font-family: PT Sans Marrow;
+}

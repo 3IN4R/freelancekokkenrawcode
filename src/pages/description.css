@@ -1,0 +1,12 @@
+.Tablecontent{
+    color: rgb(255, 255, 255);
+    font-size: 2rem;
+  }
+  
+  table.Table{
+      background-color: #072904;
+      margin-top: 3rem;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 5rem;
+  }
