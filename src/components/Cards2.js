@@ -42,7 +42,7 @@ function Card2() {
                         <p> Max Antal {events.guestNR} </p>
                         <p> Pris: {events.price}</p>
                         <p> Veganske retter: {events.veganPossible}</p>
-                        <a href='/description'><button className='this'>Læs om retter</button></a>
+                        <a href='#menu2'><button className='this'>Læs om retter</button></a>
                     </div>
                     
                 )  )}

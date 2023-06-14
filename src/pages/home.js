@@ -26,12 +26,18 @@ export default function Home(){
 
 </FadeInSection>
 </div>
-
-
+<h1 id="menu">.</h1>
+<div >
 <Menu/>
-
-<TableTest/><div class="elfsight-app-1ea6d15a-6aee-44b5-852b-e406abe49ca8"></div>
+</div>
+<div className="tablemenu" id="menu2">
+<h1>Her finder du vores nuværende menu</h1>
+<TableTest/>
+</div>
+<div class="elfsight-app-1ea6d15a-6aee-44b5-852b-e406abe49ca8"></div>
+<div id="contact">
 <Contact/>
+</div>
 <Footer/>
 </div>
 

@@ -45,6 +45,7 @@ header {
     padding: 0px 0px;
     top: 0;
     z-index: 1;
+    position: fixed;
   }
   
   .hdr{

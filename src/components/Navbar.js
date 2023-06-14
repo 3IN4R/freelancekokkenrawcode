@@ -18,14 +18,14 @@ function Navbar() {
       <nav className="nav-bar">
         <ul>
           <li>
-            <a href="/">Home</a>
+            <a href="#hero">Home</a>
           </li>
          
           <li>
-            <a href="/menu" id="servicer">Menuer</a>
+            <a href="#menu" id="servicer">Menuer</a>
           </li>
           <li>
-            <a href="/contact" id="kont">Kontakt</a>
+            <a href="#contact" id="kont">Kontakt</a>
           </li>
           <li>
           <a href="tel:86174456" className="active">Ring nu</a>
