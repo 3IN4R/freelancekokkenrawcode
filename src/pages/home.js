@@ -26,10 +26,11 @@ export default function Home(){
 
 </FadeInSection>
 </div>
-<h1 id="menu">.</h1>
+<h1 className="dot" id="menu">.</h1>
 <div >
 <Menu/>
 </div>
+
 <div className="tablemenu" id="menu2">
 <h1>Her finder du vores nuværende menu</h1>
 <TableTest/>

@@ -1,7 +1,5 @@
 import React from "react";
 import { Component } from "react";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 import News from '../FoodSources.json';
 import './description.css';
 

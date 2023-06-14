@@ -4,14 +4,19 @@ import {getDocs, collection, doc} from 'firebase/firestore';
 import './cards.css'
 
 function Card() {
+    
     const [eventList, setEventList] = useState([]);
-
+//Gathering data from database
     const eventCollectionRef = collection(db, 'events');
-
+//Creating an asynchronous application
     useEffect(() =>{
          let getEventList = async () => {
             //Read data
             //Set event list
+            //Try to prevent errors using try/catch
+            //Wait until data is gathered
+            //Filtering out the data
+            //Setting the filteredData
             try {
             const data = await getDocs(eventCollectionRef);
             const filteredData = data.docs.map((doc) =>({
