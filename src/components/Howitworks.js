@@ -1,6 +1,6 @@
 import React from 'react'
 import './works.css'
-//Credits for tutorial: https://dev.to/selbekk/how-to-fade-in-content-as-it-scrolls-into-view-10j4
+//Credits for inspiration: https://dev.to/selbekk/how-to-fade-in-content-as-it-scrolls-into-view-10j4
 //Creating a function component asking props 
 function FadeInSection(props) {
 //variable for setting entries to 'visible'    
