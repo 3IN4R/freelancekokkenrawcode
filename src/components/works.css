@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Narrow:wght@700&display=swap');
+
 .container{
     display: flex;
     opacity: 0;
@@ -43,13 +45,13 @@
 }
 
 .contact-section{
-    display: flex;
-    padding: 5rem 5rem;
+   
+    padding: 2rem 10rem;
     align-items: center;
-    justify-content: space-around;
     background-color: #072904;
     margin: 2rem 2rem;
     border-radius: 2rem;
+    color: white;
 }
 
 .contact-contaier{
@@ -57,7 +59,18 @@
     border-radius: 2rem;
     padding: 1rem;
     color: white;
+    text-align: center;
+    align-items: center;
+
 }
+
+.contact-big-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
 
 .menutext{
     text-align: center;
@@ -87,6 +100,10 @@
     .roadmap{
         width: 45rem;
 }
+    .staffimg{
+        height: auto;
+        margin-top: 1rem;
+    }
 }
     
 

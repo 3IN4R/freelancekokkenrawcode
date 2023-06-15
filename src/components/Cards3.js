@@ -37,7 +37,7 @@ function Card3() {
             <div className='down'>
                 {eventList.map((events) => (
                     <div className='cardinside'>
-                        <img className='event-image' src='https://www.brides.com/thmb/EKltHhNgAEA3qEfzLJuJeThg5cs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sqcopy-0bb93fd53174427586f98eadfb51417f.jpg'></img>
+                        <img className='event-image' src='https://img.freepik.com/free-photo/flat-lay-table-full-delicious-food-composition_23-2149141362.jpg'></img>
                         <h1 className='serviceName'>{events.type}</h1>
                         <p> Max Antal {events.guestNR} </p>
                         <p> Pris: {events.price}</p>

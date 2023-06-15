@@ -11,10 +11,14 @@
       margin-right: auto;
       margin-bottom: 5rem;
         width: 90rem;
+        border: none;
   }
 
-  @media only screen and (max-width: 780px) {
+  @media only screen and (max-width: 400px) {
     table.Table{
         width: auto;
+    }
+    .Tablecontent{
+      font-size: 1rem;
     }
   }

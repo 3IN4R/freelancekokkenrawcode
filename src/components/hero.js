@@ -6,7 +6,7 @@ export default function Hero() {
         <div className="buddy" id="hero">
             <div className="hero-text">
                 <h1 className="bigText2">Velkommen til</h1>
-            <img className="" src={Logo} alt="company logo" />
+            <img className="hero-logo" src={Logo} alt="company logo" />
             
             <h2 className="bigText">Frisk og lækert mad forventer dig</h2>
             <p className="heropar">Vi leverer i hele Aarhus og omegn </p>

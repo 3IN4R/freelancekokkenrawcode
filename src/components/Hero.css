@@ -12,7 +12,6 @@
 .hero-text {
     background-color: rgba(0, 0, 0, 0.607);
     color: #ffffff;
-    width: 76%;
     margin: auto;
     font-size: 2rem;
     text-align: center;
@@ -41,4 +40,17 @@ a button:hover{
     background: #072904;
     transition: 0.5s;
 
+}
+
+
+@media only screen and (max-width: 400px){
+    .buddy{
+        padding: none;
+    }
+    .hero-text{
+        font-size: 0.5rem;
+    }
+    .hero-logo{
+        height: 4.5rem;
+    }
 }
