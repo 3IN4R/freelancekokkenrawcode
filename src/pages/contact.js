@@ -1,5 +1,4 @@
 import React from "react";
-import '../components/works.css';
 
 export default function contact(){
     return(

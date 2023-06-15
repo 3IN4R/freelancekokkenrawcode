@@ -1,6 +1,5 @@
 import React from "react";
 import Logo from '../resources/freelancelogowhite.png'
-import "./nav.css";
 import { Link, useNavigate } from "react-router-dom";
 
 function Navbar() {

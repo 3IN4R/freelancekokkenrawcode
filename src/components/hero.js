@@ -1,4 +1,3 @@
-import "./Hero.css"
 import Logo from '../resources/freelancelogowhite.png';
 
 export default function Hero() {

@@ -1,7 +1,6 @@
 import { db } from '../firebase';
 import { useEffect, useState } from 'react';
 import {getDocs, collection, doc} from 'firebase/firestore';
-import './cards.css'
 
 function Card6() {
     const [eventList, setEventList] = useState([]);

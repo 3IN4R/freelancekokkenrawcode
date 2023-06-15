@@ -1,10 +1,6 @@
 import React from "react";
-import Navbar from "../components/Navbar";
-import Footer from "../components/Footer";
 import Card from "../components/Cards";
 import Card2 from "../components/Cards2";
-import './menu.css';
-import '../components/works.css';
 import Card3 from '../components/Cards3';
 import Card4 from "../components/Cards4";
 import Card5 from "../components/Cards5";

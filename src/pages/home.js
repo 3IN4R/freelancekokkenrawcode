@@ -1,10 +1,8 @@
 import React from "react";
 import Navbar from "../components/Navbar";
 import Footer from '../components/Footer';
-import Howit from "../components/Howitworks";
 import Hero from "../components/hero";
 import FadeInSection from "../components/Howitworks";
-import '../components/works.css'
 import How from "../components/how";
 import Plate from "../components/plateimg";
 import Menu from "./menu";
